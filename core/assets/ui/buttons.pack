@@ -1,0 +1,97 @@
+
+play.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+play/play-0001
+  rotate: false
+  xy: 0, 442
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+play/play-0002
+  rotate: false
+  xy: 0, 0
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+play/play-0003
+  rotate: false
+  xy: 442, 442
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+
+exit.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit/exit-0001
+  rotate: false
+  xy: 1, 447
+  size: 442, 444
+  orig: 442, 444
+  offset: 0, 0
+  index: -1
+exit/exit-0002
+  rotate: false
+  xy: 1, 1
+  size: 442, 444
+  orig: 442, 444
+  offset: 0, 0
+  index: -1
+exit/exit-0003
+  rotate: false
+  xy: 445, 447
+  size: 442, 444
+  orig: 442, 444
+  offset: 0, 0
+  index: -1
+
+back.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back/back-0001
+  rotate: false
+  xy: 0, 442
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+back/back-0002
+  rotate: false
+  xy: 0, 0
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+back/back-0003
+  rotate: false
+  xy: 442, 442
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+atlas/vKnob
+  rotate: false
+  xy: 1, 4
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+atlas/selection
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

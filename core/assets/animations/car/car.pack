@@ -1,0 +1,40 @@
+
+car.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chassis
+  rotate: false
+  xy: 1, 52
+  size: 1038, 285
+  orig: 1038, 285
+  offset: 0, 0
+  index: -1
+wheel-0001
+  rotate: false
+  xy: 1041, 170
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+wheel-0002
+  rotate: false
+  xy: 1210, 170
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+wheel-0003
+  rotate: false
+  xy: 1041, 1
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+wheel-0004
+  rotate: false
+  xy: 1210, 1
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
